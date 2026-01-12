@@ -1,4 +1,5 @@
 I forked this list in order to explore creating lists according to word length to help with my word game.
+I've broken down lists according to letter count, and have begun ranking them according to usage. 
 
 # wordlist
 The [Wordnik](https://www.wordnik.com/) Wordlist is an open-source wordlist for game developers and others who need a list of English words commonly used in word games. 
