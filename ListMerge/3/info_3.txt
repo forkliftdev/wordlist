@@ -1,0 +1,4 @@
+Merge date: 2026-02-07 09:20:00
+Source file 1: 3_letter.txt (1344 words)
+Source file 2: words_3.txt (1001 words)
+Merged unique words: 1642

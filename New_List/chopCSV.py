@@ -1,5 +1,8 @@
 import csv
 import re
+# This script takes a csv file of words and splits it into 4 text files based on word length
+# It removes all non-alphabetic words and duplicates
+
 
 INPUT_FILE = "words.csv"
 

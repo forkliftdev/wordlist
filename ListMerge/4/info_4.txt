@@ -1,0 +1,4 @@
+Merge date: 2026-02-07 09:22:41
+Source file 1: 4_letter.txt (5595 words)
+Source file 2: words_4.txt (2879 words)
+Merged unique words: 6171
