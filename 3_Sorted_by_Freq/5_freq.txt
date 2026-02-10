@@ -336,7 +336,6 @@
 4.770	units
 4.760	alive
 4.760	apple
-4.760	bitch
 4.760	cards
 4.760	dress
 4.760	horse
@@ -612,7 +611,6 @@
 4.400	sheet
 4.400	stops
 4.390	bench
-4.390	idiot
 4.390	medal
 4.390	roger
 4.390	shell
@@ -752,7 +750,6 @@
 4.240	naval
 4.240	noble
 4.240	picks
-4.240	pussy
 4.240	robot
 4.240	terry
 4.240	toxic
@@ -873,7 +870,6 @@
 4.140	hurry
 4.140	lakes
 4.140	mason
-4.140	nancy
 4.140	organ
 4.140	pearl
 4.140	sweat
@@ -944,7 +940,6 @@
 4.080	lords
 4.080	merit
 4.080	micro
-4.080	raped
 4.080	rebel
 4.080	tooth
 4.080	viral
@@ -1105,8 +1100,6 @@
 3.940	hobby
 3.940	lance
 3.940	locks
-3.940	lynch
-3.940	nazis
 3.940	newer
 3.940	packs
 3.940	risky
@@ -1148,7 +1141,6 @@
 3.900	beers
 3.900	bells
 3.900	blunt
-3.900	boobs
 3.900	champ
 3.900	ditch
 3.900	ducks
@@ -1216,7 +1208,6 @@
 3.860	relay
 3.860	risen
 3.860	stunt
-3.860	whore
 3.860	wiped
 3.860	yahoo
 3.850	acids
@@ -1305,7 +1296,6 @@
 3.790	belle
 3.790	bites
 3.790	deeds
-3.790	horny
 3.790	poses
 3.790	rails
 3.790	raven
@@ -1349,7 +1339,6 @@
 3.760	metre
 3.760	norms
 3.760	pinch
-3.760	queer
 3.760	rover
 3.760	scars
 3.760	syrup
@@ -1364,7 +1353,6 @@
 3.750	maths
 3.750	memes
 3.750	merge
-3.750	moron
 3.750	myths
 3.750	naive
 3.750	opted
@@ -1405,7 +1393,6 @@
 3.730	greed
 3.730	greet
 3.730	lamps
-3.730	negro
 3.730	owing
 3.730	proxy
 3.730	renew
@@ -1826,7 +1813,6 @@
 3.470	visas
 3.460	alias
 3.460	annoy
-3.460	cocks
 3.460	grail
 3.460	kappa
 3.460	liars
@@ -1952,7 +1938,6 @@
 3.400	basal
 3.400	crabs
 3.400	demos
-3.400	dildo
 3.400	elves
 3.400	ether
 3.400	fetal
@@ -2002,7 +1987,6 @@
 3.380	louie
 3.380	mecca
 3.380	moons
-3.380	semen
 3.380	sighs
 3.380	slime
 3.380	spawn
@@ -2018,7 +2002,6 @@
 3.370	dunes
 3.370	haste
 3.370	judas
-3.370	kinky
 3.370	moods
 3.370	otter
 3.370	racks
@@ -2038,8 +2021,6 @@
 3.360	leaps
 3.360	lends
 3.360	nerds
-3.360	porno
-3.360	rapes
 3.360	reefs
 3.360	santo
 3.360	slump
@@ -2086,7 +2067,6 @@
 3.330	adept
 3.330	bowed
 3.330	cafes
-3.330	cunts
 3.330	doggy
 3.330	eerie
 3.330	farce
@@ -2299,7 +2279,6 @@
 3.220	whiff
 3.210	aunts
 3.210	bling
-3.210	boner
 3.210	bouts
 3.210	chico
 3.210	flake
@@ -2314,7 +2293,6 @@
 3.210	sassy
 3.210	takin
 3.210	tonne
-3.210	tramp
 3.210	wield
 3.200	brisk
 3.200	cupid
@@ -2358,7 +2336,6 @@
 3.190	plume
 3.190	plump
 3.190	shrub
-3.190	sluts
 3.190	soaps
 3.190	stead
 3.190	vests
@@ -2608,7 +2585,6 @@
 3.080	waxed
 3.070	beets
 3.070	brine
-3.070	busty
 3.070	churn
 3.070	dolce
 3.070	fuses
@@ -2724,7 +2700,6 @@
 3.010	decal
 3.010	execs
 3.010	expat
-3.010	fecal
 3.010	kanji
 3.010	lingo
 3.010	lohan
@@ -2736,7 +2711,6 @@
 3.010	snort
 3.010	swims
 3.010	tamed
-3.010	titty
 3.010	typos
 3.010	vices
 3.010	warts
@@ -2911,7 +2885,6 @@
 2.930	shoal
 2.930	smite
 2.930	twine
-2.930	twink
 2.930	voila
 2.930	yarns
 2.920	aorta
@@ -2981,7 +2954,6 @@
 2.890	claps
 2.890	doggo
 2.890	dumas
-2.890	dykes
 2.890	feuds
 2.890	gauze
 2.890	ghoul
@@ -3026,7 +2998,6 @@
 2.880	swoon
 2.880	thane
 2.880	tithe
-2.870	bimbo
 2.870	bongo
 2.870	cairn
 2.870	campo
@@ -3238,7 +3209,6 @@
 2.790	duets
 2.790	golem
 2.790	hares
-2.790	honky
 2.790	jeeps
 2.790	leper
 2.790	levee
@@ -3449,7 +3419,6 @@
 2.700	saggy
 2.700	septa
 2.700	serfs
-2.700	skeet
 2.700	sneer
 2.700	splat
 2.700	touts
@@ -3481,16 +3450,13 @@
 2.680	ducky
 2.680	easel
 2.680	grist
-2.680	grope
 2.680	inlay
 2.680	paras
 2.680	poach
-2.680	pubes
 2.680	sacra
 2.680	sappy
 2.680	shill
 2.680	shins
-2.680	skank
 2.680	slats
 2.680	speer
 2.680	squaw
@@ -3541,7 +3507,6 @@
 2.660	shirk
 2.660	solon
 2.660	spiel
-2.660	spunk
 2.660	swank
 2.660	tacks
 2.660	torts
@@ -3560,7 +3525,6 @@
 2.650	devel
 2.650	dwelt
 2.650	frets
-2.650	gipsy
 2.650	glint
 2.650	halos
 2.650	lidar
@@ -3842,7 +3806,6 @@
 2.550	causa
 2.550	cower
 2.550	cubby
-2.550	dikes
 2.550	dimer
 2.550	flail
 2.550	garbo
@@ -3924,7 +3887,6 @@
 2.520	boozy
 2.520	bruin
 2.520	chine
-2.520	coons
 2.520	crags
 2.520	creak
 2.520	datum
@@ -5444,7 +5406,6 @@
 1.980	damar
 1.980	dater
 1.980	ewers
-1.980	fagot
 1.980	fixit
 1.980	gesso
 1.980	gulfs
@@ -5722,7 +5683,6 @@
 1.890	manky
 1.890	molla
 1.890	murti
-1.890	poofs
 1.890	qualm
 1.890	resit
 1.890	rices
@@ -5864,7 +5824,6 @@
 1.840	orris
 1.840	panga
 1.840	pardy
-1.840	pikey
 1.840	pitas
 1.840	plast
 1.840	prats
@@ -6057,7 +6016,6 @@
 1.780	syren
 1.780	targe
 1.780	titch
-1.780	tushy
 1.780	volar
 1.770	abaca
 1.770	abele
@@ -6080,7 +6038,6 @@
 1.770	gouty
 1.770	gyres
 1.770	kente
-1.770	kikes
 1.770	kukri
 1.770	liker
 1.770	meres
@@ -6429,7 +6386,6 @@
 1.660	fogey
 1.660	fugal
 1.660	fusty
-1.660	gooks
 1.660	hains
 1.660	hilum
 1.660	jills
@@ -7110,7 +7066,6 @@
 1.460	raion
 1.460	riata
 1.460	sedes
-1.460	spics
 1.460	stope
 1.460	sysop
 1.460	tasse
@@ -8333,7 +8288,6 @@
 1.060	borts
 1.060	broos
 1.060	curdy
-1.060	dagos
 1.060	dungs
 1.060	elemi
 1.060	exeat
@@ -11134,7 +11088,6 @@
 0.000	spewy
 0.000	spial
 0.000	spifs
-0.000	spiks
 0.000	spims
 0.000	spiry
 0.000	splog

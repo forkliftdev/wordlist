@@ -102,7 +102,6 @@
 5.490	line
 5.490	says
 5.480	open
-5.480	shit
 5.460	area
 5.450	face
 5.450	five
@@ -121,7 +120,6 @@
 5.400	body
 5.400	food
 5.400	true
-5.390	fuck
 5.390	lost
 5.390	room
 5.380	else
@@ -371,7 +369,6 @@
 4.700	arts
 4.700	beer
 4.700	crew
-4.700	dick
 4.700	moon
 4.700	suit
 4.700	wins
@@ -478,7 +475,6 @@
 4.500	ford
 4.500	gang
 4.500	lift
-4.500	porn
 4.500	sons
 4.490	bush
 4.490	coal
@@ -492,7 +488,6 @@
 4.480	earn
 4.480	grey
 4.480	meal
-4.480	rape
 4.480	rush
 4.470	bone
 4.470	gate
@@ -533,7 +528,6 @@
 4.420	maps
 4.420	sexy
 4.420	soil
-4.420	suck
 4.420	ugly
 4.410	deck
 4.410	dies
@@ -613,7 +607,6 @@
 4.280	dual
 4.280	gulf
 4.280	logo
-4.280	nazi
 4.280	odds
 4.280	pump
 4.280	slip
@@ -644,7 +637,6 @@
 4.240	mama
 4.240	shoe
 4.230	chef
-4.230	cock
 4.230	emma
 4.230	palm
 4.230	pole
@@ -818,7 +810,6 @@
 4.000	java
 4.000	jerk
 4.000	nude
-4.000	tits
 3.990	barn
 3.990	bent
 3.990	deaf
@@ -863,7 +854,6 @@
 3.950	stat
 3.950	troy
 3.950	wang
-3.940	anal
 3.940	dull
 3.940	fare
 3.940	idol
@@ -928,7 +918,6 @@
 3.880	yale
 3.870	beth
 3.870	bids
-3.870	cunt
 3.870	glen
 3.870	maya
 3.870	pros
@@ -1034,7 +1023,6 @@
 3.760	iris
 3.760	ping
 3.760	pots
-3.760	slut
 3.760	tina
 3.760	turf
 3.750	bind
@@ -1211,7 +1199,6 @@
 3.610	darn
 3.610	geek
 3.610	hmmm
-3.610	homo
 3.610	hymn
 3.610	noun
 3.610	oaks
@@ -1469,7 +1456,6 @@
 3.380	shea
 3.370	arid
 3.370	comm
-3.370	dyke
 3.370	moan
 3.370	rein
 3.370	soho
@@ -1569,7 +1555,6 @@
 3.290	nuke
 3.290	pooh
 3.290	tofu
-3.290	twat
 3.280	axel
 3.280	dune
 3.280	fray
@@ -1620,7 +1605,6 @@
 3.240	lakh
 3.240	mugs
 3.240	nigh
-3.240	orgy
 3.240	rigs
 3.240	ritz
 3.240	rolf
@@ -1782,7 +1766,6 @@
 3.110	sous
 3.110	wynn
 3.100	bien
-3.100	clit
 3.100	dork
 3.100	dory
 3.100	egos
@@ -1830,7 +1813,6 @@
 3.080	zeta
 3.070	alfa
 3.070	blob
-3.070	coon
 3.070	devi
 3.070	exes
 3.070	fink
@@ -1971,7 +1953,6 @@
 2.990	luce
 2.990	luxe
 2.990	mica
-2.990	mong
 2.990	mush
 2.990	nous
 2.990	onus
@@ -2041,14 +2022,11 @@
 2.940	bosh
 2.940	dona
 2.940	dram
-2.940	fags
 2.940	juve
 2.940	mull
 2.940	oust
-2.940	poof
 2.940	taro
 2.940	vide
-2.940	wank
 2.940	weil
 2.940	yous
 2.930	anno
@@ -2079,7 +2057,6 @@
 2.910	hurl
 2.910	magi
 2.910	rote
-2.910	scat
 2.910	snot
 2.910	taut
 2.900	bene
@@ -2132,7 +2109,6 @@
 2.870	prim
 2.870	regs
 2.870	slog
-2.870	smut
 2.870	welt
 2.860	ales
 2.860	cede
@@ -2149,7 +2125,6 @@
 2.850	bogs
 2.850	cigs
 2.850	dens
-2.850	dike
 2.850	homs
 2.850	kohl
 2.850	lyra
@@ -2251,7 +2226,6 @@
 2.780	etch
 2.780	guan
 2.780	iffy
-2.780	jizz
 2.780	nang
 2.780	pews
 2.780	wham
@@ -2571,7 +2545,6 @@
 2.580	naan
 2.580	ould
 2.580	poco
-2.580	poon
 2.580	rood
 2.580	sate
 2.580	sone
@@ -2690,7 +2663,6 @@
 2.490	dere
 2.490	flay
 2.490	hori
-2.490	japs
 2.490	ludo
 2.490	minx
 2.490	mips
@@ -2839,7 +2811,6 @@
 2.400	gawk
 2.400	haar
 2.400	hass
-2.400	kike
 2.400	mola
 2.400	nowt
 2.400	rasp
@@ -3012,7 +2983,6 @@
 2.290	circ
 2.290	cush
 2.290	dims
-2.290	gook
 2.290	gori
 2.290	gree
 2.290	hags
@@ -3277,7 +3247,6 @@
 2.140	razz
 2.140	sain
 2.140	skee
-2.140	spic
 2.130	gane
 2.130	goji
 2.130	haps
@@ -3300,7 +3269,6 @@
 2.120	glia
 2.120	goby
 2.120	griz
-2.120	hebe
 2.120	ingo
 2.120	jynx
 2.120	loth
@@ -3512,7 +3480,6 @@
 2.000	kist
 2.000	lorn
 2.000	nole
-2.000	quim
 2.000	ripp
 2.000	sers
 2.000	togs
@@ -4794,7 +4761,6 @@
 1.180	loid
 1.180	pise
 1.180	sker
-1.180	spik
 1.180	yage
 1.170	foin
 1.170	kirs

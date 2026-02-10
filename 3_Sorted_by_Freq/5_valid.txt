@@ -989,7 +989,6 @@ bills
 billy
 bimah
 bimas
-bimbo
 binal
 bindi
 binds
@@ -1020,7 +1019,6 @@ birth
 bises
 bisks
 bison
-bitch
 biter
 bites
 bitos
@@ -1171,7 +1169,6 @@ bombs
 bonce
 bonds
 boned
-boner
 bones
 boney
 bongo
@@ -1181,7 +1178,6 @@ bonne
 bonny
 bonus
 bonze
-boobs
 booby
 boody
 booed
@@ -1478,7 +1474,6 @@ bushy
 busks
 busky
 busts
-busty
 butch
 buteo
 butes
@@ -1981,7 +1976,6 @@ cobra
 cocas
 cocci
 cocco
-cocks
 cocky
 cocoa
 cocos
@@ -2080,7 +2074,6 @@ cooly
 coomb
 cooms
 coomy
-coons
 coops
 coopt
 coost
@@ -2298,7 +2291,6 @@ cumin
 cundy
 cunei
 cunit
-cunts
 cupel
 cupid
 cuppa
@@ -2374,7 +2366,6 @@ daffs
 daffy
 dagga
 daggy
-dagos
 dahls
 daily
 daint
@@ -2606,9 +2597,7 @@ digit
 dikas
 diked
 diker
-dikes
 dikey
-dildo
 dilli
 dills
 dilly
@@ -2975,7 +2964,6 @@ dyads
 dyers
 dying
 dyked
-dykes
 dykey
 dykon
 dynel
@@ -3265,7 +3253,6 @@ faery
 faffs
 faggy
 fagin
-fagot
 faiks
 fails
 fains
@@ -3348,7 +3335,6 @@ fease
 feast
 feats
 feaze
-fecal
 feces
 fecht
 fecit
@@ -4003,7 +3989,6 @@ ginny
 ginzo
 gipon
 gippo
-gipsy
 girds
 girls
 girly
@@ -4158,7 +4143,6 @@ gooey
 goofs
 goofy
 googs
-gooks
 gooky
 goold
 gools
@@ -4278,7 +4262,6 @@ groks
 groma
 grone
 groom
-grope
 gross
 grosz
 grots
@@ -4703,7 +4686,6 @@ honey
 hongi
 hongs
 honks
-honky
 honor
 hooch
 hoods
@@ -4732,7 +4714,6 @@ horde
 horis
 horks
 horns
-horny
 horse
 horst
 horsy
@@ -4864,7 +4845,6 @@ ideas
 idees
 ident
 idiom
-idiot
 idled
 idler
 idles
@@ -5340,7 +5320,6 @@ kidge
 kiefs
 kiers
 kieve
-kikes
 kikoi
 kiley
 kilim
@@ -5359,7 +5338,6 @@ kines
 kings
 kinin
 kinks
-kinky
 kinos
 kiosk
 kipes
@@ -6036,7 +6014,6 @@ lycra
 lying
 lymes
 lymph
-lynch
 lynes
 lyres
 lyric
@@ -6524,7 +6501,6 @@ mores
 moria
 morne
 morns
-moron
 morph
 morra
 morro
@@ -6718,7 +6694,6 @@ namer
 names
 nanas
 nance
-nancy
 nandu
 nanna
 nanny
@@ -6757,7 +6732,6 @@ navvy
 nawab
 nazes
 nazir
-nazis
 neals
 neaps
 nears
@@ -6773,7 +6747,6 @@ neems
 neeps
 neese
 neeze
-negro
 negus
 neifs
 neigh
@@ -7529,7 +7502,6 @@ pikas
 piked
 piker
 pikes
-pikey
 pikis
 pilaf
 pilar
@@ -7752,7 +7724,6 @@ porgy
 porin
 porks
 porky
-porno
 porns
 porny
 porta
@@ -7903,7 +7874,6 @@ psora
 psych
 psyop
 pubco
-pubes
 pubic
 pubis
 puces
@@ -7977,7 +7947,6 @@ pursy
 purty
 puses
 pushy
-pussy
 putid
 puton
 putti
@@ -8034,7 +8003,6 @@ quays
 qubit
 quean
 queen
-queer
 quell
 queme
 quena
@@ -8149,9 +8117,7 @@ ranid
 ranis
 ranks
 rants
-raped
 raper
-rapes
 raphe
 rapid
 rappe
@@ -8938,7 +8904,6 @@ selle
 sells
 selva
 semee
-semen
 semes
 semis
 senas
@@ -9236,7 +9201,6 @@ sizes
 skags
 skail
 skald
-skank
 skart
 skate
 skats
@@ -9247,7 +9211,6 @@ skeed
 skeen
 skeer
 skees
-skeet
 skegs
 skein
 skell
@@ -9373,7 +9336,6 @@ slurb
 slurp
 slurs
 slush
-sluts
 slyer
 slyly
 slype
@@ -9659,7 +9621,6 @@ spial
 spica
 spice
 spick
-spics
 spicy
 spide
 spied
@@ -9669,7 +9630,6 @@ spies
 spiff
 spifs
 spike
-spiks
 spiky
 spile
 spill
@@ -9726,7 +9686,6 @@ spues
 spugs
 spume
 spumy
-spunk
 spurn
 spurs
 spurt
@@ -10446,7 +10405,6 @@ tithe
 titis
 title
 titre
-titty
 titup
 tiyin
 tiyns
@@ -10593,7 +10551,6 @@ traik
 trail
 train
 trait
-tramp
 trams
 trank
 tranq
@@ -10746,7 +10703,6 @@ turms
 turns
 turps
 turrs
-tushy
 tusks
 tusky
 tutee
@@ -10777,7 +10733,6 @@ twigs
 twill
 twilt
 twine
-twink
 twins
 twiny
 twire
@@ -11402,7 +11357,6 @@ whoof
 whoop
 whoot
 whops
-whore
 whorl
 whort
 whose

@@ -1,0 +1,35 @@
+Scrub Details Report - 2026-02-10 08:51:32.275586
+
+===================================
+FILE: 3_Letter.txt
+  Initial word count: 1344
+  Words removed:      5
+  Final word count:   1339
+  List of removed words:
+    ass, cum, fag, jap, lez
+-----------------------------------
+
+FILE: 4_Letter.txt
+  Initial word count: 5595
+  Words removed:      34
+  Final word count:   5561
+  List of removed words:
+    anal, clit, cock, coon, cunt, dick, dike, dyke, fags, fuck, gook, hebe, homo, japs, jizz, kike, mong, nazi, orgy, poof, poon, porn, quim, rape, scat, shit, slut, smut, spic, spik, suck, tits, twat, wank
+-----------------------------------
+
+FILE: 5_Letter.txt
+  Initial word count: 11846
+  Words removed:      47
+  Final word count:   11799
+  List of removed words:
+    bimbo, bitch, boner, boobs, busty, cocks, coons, cunts, dagos, dikes, dildo, dykes, fagot, fecal, gipsy, gooks, grope, honky, horny, idiot, kikes, kinky, lynch, moron, nancy, nazis, negro, pikey, poofs, porno, pubes, pussy, queer, raped, rapes, semen, skank, skeet, sluts, spics, spiks, spunk, titty, tramp, tushy, twink, whore
+-----------------------------------
+
+FILE: 6_Letter.txt
+  Initial word count: 18195
+  Words removed:      28
+  Final word count:   18167
+  List of removed words:
+    bimbos, bugger, darkie, eunuch, faggot, fagots, gringo, honkey, hooker, inbred, incest, nigger, nudity, nympho, polack, raping, rapist, retard, sadism, schizo, skanky, slutty, snatch, sodomy, tosser, tranny, voyeur, whitey
+-----------------------------------
+

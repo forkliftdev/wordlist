@@ -72,7 +72,6 @@ ary
 ash
 ask
 asp
-ass
 ate
 ats
 att
@@ -199,7 +198,6 @@ cry
 cub
 cud
 cue
-cum
 cup
 cur
 cut
@@ -340,7 +338,6 @@ faa
 fab
 fad
 fae
-fag
 fah
 fan
 fap
@@ -550,7 +547,6 @@ jag
 jai
 jak
 jam
-jap
 jar
 jaw
 jay
@@ -644,7 +640,6 @@ lev
 lew
 lex
 ley
-lez
 lib
 lid
 lie
