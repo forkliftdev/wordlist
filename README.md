@@ -1,17 +1,38 @@
-I forked this list in order to explore creating lists according to word length to help with my word game.
-I've broken down lists according to letter count, and have begun ranking them according to usage. 
+# FlexWord Word List
 
-# wordlist
-The [Wordnik](https://www.wordnik.com/) Wordlist is an open-source wordlist for game developers and others who need a list of English words commonly used in word games. 
+FlexWord is a word game built for Reddit. You can play it at [r/flexword](https://www.reddit.com/r/flexword).
 
-## Want to suggest a word? 
-Open an [issue](https://github.com/wordnik/wordlist/issues)!
+This is the word list that powers FlexWord. It's public on purpose.
 
-(Here are instructions on how to create an issue: [https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue))
+There's no team of expert editors privately deciding what's a real word and what isn't. It's just me — a forklift driver who built a word game — and I need your help keeping it honest.
 
-## Need more data?
-A full JSON dataset including definitions, parts-of-speech, frequency information, and labeling of offensive or derogatory terms is available for a one-time license fee for single or multiple games at [developer.wordnik.com](https://developer.wordnik.com/pricing#gameset).
+If a word is in here that shouldn't be, or a perfectly good word is missing, open an issue. That's it. That's the whole contribution process.
 
-## Donate
-Help support Wordnik's nonprofit mission to find and share all the words of English by donating at [bit.ly/donatenik](https://bit.ly/donatenik).  
-Wordnik is a 501(c)3 nonprofit organization.
+---
+
+## How the List Gets Built
+
+The word list isn't just a flat file I found somewhere. It goes through a pipeline before any word ends up in the game. Here's what that looks like:
+
+1. **ListMerge** — Multiple source lists get combined into one raw pile. Duplicates get removed.  
+2. **Raw_Scrubbed** — The obvious junk gets cleaned out. Proper nouns, words with special characters, anything that has no business being in a word game.  
+3. **Sorted_by_Freq** — Words get ranked by how commonly they appear in real writing. This is what powers difficulty in FlexPlay — common words are easier, rare words are harder. Nothing arbitrary.  
+4. **In_Game** — The final list. These are the words FlexWord actually uses.
+
+The scripts that run each stage live in the `scripts/` folder if you're curious how it works under the hood.
+
+---
+
+## What to Report
+
+- A word that's offensive, obscure to the point of unfairness, or just wrong  
+- A common word that's missing and should obviously be there  
+- Anything that made you go “wait, that's a word?”
+
+**Open an issue here →**
+
+---
+
+## Where This List Came From
+
+This repo is forked from Wordnik's open‑source wordlist. Wordnik is a nonprofit. If you find their work useful, they accept donations.
