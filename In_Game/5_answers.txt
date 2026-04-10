@@ -4536,7 +4536,6 @@ heats
 heave
 heavy
 heben
-hebes
 hecks
 heder
 hedge

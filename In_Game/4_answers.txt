@@ -2038,7 +2038,6 @@ heal
 heap
 hear
 heat
-hebe
 hech
 heck
 heed
