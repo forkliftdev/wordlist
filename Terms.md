@@ -20,7 +20,7 @@ FlexWord stores basic gameplay data (guesses, scores, and game settings) to make
  
 FlexWord may make network requests to external APIs (for example, to retrieve word definitions). These requests do not include your Reddit username or any personal information.
  
-For full details, see our [Privacy Policy](privacy.md).
+For full details, see our [Privacy Policy](Privacy.md).
  
 ## The word list
  
